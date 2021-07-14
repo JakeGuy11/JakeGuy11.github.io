@@ -1,6 +1,7 @@
 body
 {
     background-color: #000000;
+    padding: 0px;
 }
 
 h1
@@ -10,14 +11,36 @@ h1
 
 .left-panel
 {
+    background-color: #333333;
     float: left;
     height: 100%;
-    width: 30%;
+    width: 20%;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+.img-panel
+{
+    width: 80%;
+    height: 20%;
+    float: top;
+    margin: 10%;
+    justify-content: center;
+}
+
+.profile-pic
+{
+    max-height: 100%;
+    max-width: 100%;
+    display: block;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .right-panel
 {
     float: left;
     height: 100%;
-    width: 70%;
+    width: 80%;
 }
