@@ -1,0 +1,23 @@
+body
+{
+    background-color: #000000;
+}
+
+h1
+{
+    color: #BAFFFF;
+}
+
+.left-panel
+{
+    float: left;
+    height: 100%;
+    width: 30%;
+}
+
+.right-panel
+{
+    float: left;
+    height: 100%;
+    width: 70%;
+}
