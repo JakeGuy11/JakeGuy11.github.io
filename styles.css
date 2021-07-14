@@ -4,9 +4,16 @@ body
     padding: 0px;
 }
 
+p
+{
+    color: #BAFFFF;
+    font-family: 'Inconsolata', monospace;
+}
+
 h1
 {
     color: #BAFFFF;
+    font-family: 'Inconsolata', monospace;
 }
 
 .left-panel
