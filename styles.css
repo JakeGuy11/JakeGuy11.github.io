@@ -16,6 +16,11 @@ p
     font-size: 16px;
 }
 
+a:link { color: #92FC99; }
+a:hover { color: #E8FFFF; }
+a:visited { color: #00D3D3; }
+a:active { color: #01B70D; }
+
 h1
 {
     color: #BAFFFF;
