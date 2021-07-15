@@ -14,7 +14,7 @@ p
 h1
 {
     color: #BAFFFF;
-    margin-bottom: 5px;
+    margin: 5px;
     font-family: 'Inconsolata', monospace;
 }
 
@@ -24,8 +24,8 @@ h1
     float: left;
     height: 100%;
     width: 20%;
-    border-top-right-radius: 75px;
-    border-bottom-right-radius: 75px;
+    border-top-right-radius: 35px;
+    border-bottom-right-radius: 35px;
 }
 
 .name-panel
@@ -81,9 +81,28 @@ h1
     float: left;
 }
 
+.middle-panel
+{
+    float: left;
+    height: 100%;
+    width: 2.5%;
+}
+
 .right-panel
 {
     float: left;
     height: 100%;
-    width: 80%;
+    width: 77.5%;
+    display: flex;
+    justify-content: center;
 }
+
+.content-panel
+{
+    width: 50%;
+    padding: 2%;
+    border: 2px solid #FFFFFF;
+    border-radius: 25px;
+    background: #FFFFFF33;
+}
+
