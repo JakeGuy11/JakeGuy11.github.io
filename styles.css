@@ -23,6 +23,12 @@ h1
     font-family: 'Inconsolata', monospace;
 }
 
+ul
+{
+    color: #BAFFFF;
+    font-family: 'Inconsolata', monospace;
+}
+
 .left-panel
 {
     background-color: #333333;
