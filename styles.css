@@ -115,3 +115,44 @@ ul
     background: #FFFFFF33;
 }
 
+.skill-panel
+{
+    width: 100%;
+    display: flex;
+    float: left;
+}
+
+.skill-img-panel
+{
+    display: block;
+    float: left;
+}
+
+.skill-img
+{
+    width: 24px;
+    height: auto;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    display: block;
+    float: top;
+}
+
+.skill-panel-bar
+{
+    background-color: #00FF0099;
+    border-radius: 2px;
+    width: 4px;
+    margin-left: 4px;
+    margin-right: 4px;
+}
+
+.skill-text-panel
+{
+    width: 100%;
+    height: auto;
+    float: left;
+}
+
+
+
